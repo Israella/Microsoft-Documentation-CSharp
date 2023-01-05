@@ -1,0 +1,15 @@
+C:\projetos\MySuperBank\MySuperBank\bin\Debug\net6.0\MySuperBank.exe
+C:\projetos\MySuperBank\MySuperBank\bin\Debug\net6.0\MySuperBank.deps.json
+C:\projetos\MySuperBank\MySuperBank\bin\Debug\net6.0\MySuperBank.runtimeconfig.json
+C:\projetos\MySuperBank\MySuperBank\bin\Debug\net6.0\MySuperBank.dll
+C:\projetos\MySuperBank\MySuperBank\bin\Debug\net6.0\MySuperBank.pdb
+C:\projetos\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.csproj.AssemblyReference.cache
+C:\projetos\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.AssemblyInfoInputs.cache
+C:\projetos\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.AssemblyInfo.cs
+C:\projetos\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.csproj.CoreCompileInputs.cache
+C:\projetos\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.dll
+C:\projetos\MySuperBank\MySuperBank\obj\Debug\net6.0\refint\MySuperBank.dll
+C:\projetos\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.pdb
+C:\projetos\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.genruntimeconfig.cache
+C:\projetos\MySuperBank\MySuperBank\obj\Debug\net6.0\ref\MySuperBank.dll
