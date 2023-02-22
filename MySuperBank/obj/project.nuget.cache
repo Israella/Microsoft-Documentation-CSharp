@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fEC+XDVDO+u+z9YM8YjnF8b93ajAOGo3ffWJqPGPgps0qxMM0SHOybF+6JHdCDqBn4vFtYEhKKUwD/g7baU7sQ==",
+  "dgSpecHash": "Mljo9FuE01frKSKK+uu/a3Ofql4w1Uf+go801OeeJg7X/1yFleKw2gnSLaI/Mgp4kX9rJZjg9Z/BuAxyEmlLtA==",
   "success": true,
-  "projectFilePath": "c:\\MeusProjetos\\MicrosoftDocumentation\\MyBankAccount\\Microsoft-Documentation-CSharp\\MySuperBank\\MySuperBank.csproj",
+  "projectFilePath": "c:\\MeusProjetos\\Microsoft-Tutorials\\MySuperBank\\MySuperBank.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
