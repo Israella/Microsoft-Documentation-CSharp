@@ -3,4 +3,4 @@
 
 <h3 align="left"> ❗️ From this time forward, you are going to know what and how you can learn by Microsoft Documentation. ❗️ </h3>
 <h3 align="left"> ❗️ Notes from the videos will be updating according with my path learning. ❗️ </h3> 
-All the the instructions and projects can be found at ![Flex Grid](https://learn.microsoft.com/en-us/training/)
+All the the instructions and projects can be found at [Flex Grid](https://learn.microsoft.com/en-us/training/)
